@@ -8,7 +8,7 @@ A lightweight real-time data pipeline built using **Apache Kafka**, **Apache Spa
 
 ## 📌 Key Features
 
-- ✅ Real-time ingestion of events via **Kafka**     **consumer.py**
+- ✅ Real-time ingestion of events via **Kafka**     **producer.py**
 - ✅ Streaming processing with **Spark Structured Streaming**    **streaming.py**
 - ✅ Local development using **Docker Compose**    **docker file**
 - ✅ Easy to extend for downstream sinks
